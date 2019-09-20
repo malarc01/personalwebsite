@@ -68,3 +68,12 @@ nav {
 	grid-column: 2/3;
 	align-self: end;
 }
+
+.details h1 {
+	font-size: 64px;
+	font-family: PopRegular;
+}
+.details h2 {
+	font-size: 42px;
+	/* font-family: PopRegular; */
+}

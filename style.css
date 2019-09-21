@@ -258,7 +258,7 @@ nav {
 	justify-items: center;
 	align-items: center;
 	text-align: center;
-	transform: translate(-100%);
+	transform: translateY(-100%);
 }
 
 .contact {

@@ -98,7 +98,7 @@ nav {
 	position: absolute;
 	right: 5%;
 	top: 50%;
-	transform: translate(-50%);
+	transform: translateY(-50%);
 }
 .pages > div {
 	display: flex;
